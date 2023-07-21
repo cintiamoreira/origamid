@@ -1,9 +1,8 @@
-html {
+body {
   font-family: arial;
 }
 
-a,
-h2 {
+h2 a {
   color: seagreen;
 }
 
