@@ -1,0 +1,124 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+  background: #f7f7f7;
+  display: grid;
+  gap: 60px;
+  justify-items: center;
+  margin-top: 60px;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  font-size: 7px;
+}
+#logo {
+  max-width: 100%;
+  height: 7px;
+  margin-bottom: 10px;
+}
+#menu {
+  color: black;
+  gap: 3px;
+  display: flex;
+  justify-content: center;
+}
+.itensmenu {
+  font-size: 3px;
+  text-align: center;
+  color: black;
+  background-color: white;
+  text-decoration: none;
+  border-radius: 3px;
+  padding: 3px 10px;
+}
+#primeiralinha {
+  display: flex;
+  background-color: white;
+  margin-top: 10px;
+  text-decoration: none;
+  font-size: 4px;
+  text-align: right;
+  flex-direction: row;
+}
+#botaovermais {
+  text-decoration: none;
+  background-color: #ee2211;
+  text-align: center;
+  color: #f7f7f7;
+  margin-bottom: 5px;
+  padding: 3px 7px;
+  font-size: 3px;
+  width: 15px;
+  border-radius: 3px;
+  margin-right: 10px;
+}
+
+#descricao {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+#textodescricao {
+  margin-right: 10px;
+}
+
+#imgbike {
+  height: 60px;
+}
+
+#conteinerimgbike {
+  background-color: #f7f7f7;
+}
+
+#segundalinha {
+  height: 74px;
+}
+
+#caracteristicas {
+  background-color: white;
+}
+
+#vantagens {
+}
+
+h2 {
+  color: #c6c6c6;
+  font-size: small;
+  text-align: right;
+  background-color: #f7f7f7;
+  padding-top: 25px;
+  padding-bottom: 60px;
+  padding-right: 10px;
+  width: 50%;
+}
+
+h3 {
+  font-size: 4px;
+  text-align: left;
+  padding-left: 0px;
+}
+
+#icones {
+  height: 6px;
+  background-color: white;
+  padding-left: 10px;
+  display: flex;
+}
+
+#descricaovantagens {
+  font-size: 4px;
+}
+
+#rodape {
+  background-color: white;
+  text-align: center;
+  font-size: 4px;
+  padding: 5px 25px;
+}

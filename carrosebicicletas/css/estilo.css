@@ -1,0 +1,28 @@
+body {
+  font: Arial;
+}
+
+h1 {
+  text-align: center;
+}
+
+.valores {
+  background: #111;
+  color: #fff;
+  border-radius: 4px;
+}
+
+span {
+  color: #febe01;
+}
+
+p {
+  color: #b2b2b2;
+}
+
+a {
+  background: #febe01;
+  color: #332100;
+  border-radius: 4px;
+  text-decoration: none;
+}
